@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:E2F0B636-EAD9-4E9B-B386-A0DD1DE2717D</id>
+ <title>Page list Atom feed</title>
+ <updated>2009-12-08T00:34:21+11:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7DEA072A-435F-4479-869D-EAD2E498E0D8</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">7DEA072A-435F-4479-869D-EAD2E498E0D8</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2009-12-08T00:34:21.001+11:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DCB445BB-FB32-42E9-9CC5-B342DF754D88</id>
+  <title>Delivery Area</title>
+  <title xmlns="urn:iweb:">Delivery Area</title>
+  <in-navbar xmlns="urn:iweb:">DCB445BB-FB32-42E9-9CC5-B342DF754D88</in-navbar>
+  <link rel="alternate" href="Delivery_Area.html"/>
+  <updated>2009-12-08T00:34:21.002+11:00</updated>
+  <content>Delivery Area</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E2D19A7E-A6B7-411B-B2D5-DB375B46A6AD</id>
+  <title>Products</title>
+  <title xmlns="urn:iweb:">Products</title>
+  <in-navbar xmlns="urn:iweb:">E2D19A7E-A6B7-411B-B2D5-DB375B46A6AD</in-navbar>
+  <link rel="alternate" href="Products.html"/>
+  <updated>2009-12-08T00:34:21.003+11:00</updated>
+  <content>Products</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:302C28AC-961A-4991-9917-D14E0522277C</id>
+  <title>Payments</title>
+  <title xmlns="urn:iweb:">Payments</title>
+  <in-navbar xmlns="urn:iweb:">302C28AC-961A-4991-9917-D14E0522277C</in-navbar>
+  <link rel="alternate" href="Payments.html"/>
+  <updated>2009-12-08T00:34:21.004+11:00</updated>
+  <content>Payments</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:95546692-1789-40EC-AB01-9695E73CC104</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">95546692-1789-40EC-AB01-9695E73CC104</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2009-12-08T00:34:21.005+11:00</updated>
+  <content>Contact Us</content>
+ </entry>
+</feed>
